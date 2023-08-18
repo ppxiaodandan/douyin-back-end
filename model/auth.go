@@ -2,8 +2,8 @@ package model
 
 import (
 	"github.com/jinzhu/gorm"
-	//"github.com/RaymondCode/simple-demo/dao"
-	"simple-demo-main/dao"
+	"github.com/ppxiaodandan/douyin-back-end/dao"
+	//"simple-demo-main/dao"
 )
 
 type Auth struct {

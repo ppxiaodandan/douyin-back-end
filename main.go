@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/RaymondCode/simple-demo/dao"
-	"github.com/RaymondCode/simple-demo/service"
 	"github.com/gin-gonic/gin"
+	"github.com/ppxiaodandan/douyin-back-end/dao"
+	"github.com/ppxiaodandan/douyin-back-end/service"
 )
 
 func main() {

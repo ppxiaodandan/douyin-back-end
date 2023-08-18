@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"github.com/RaymondCode/simple-demo/service/auth_service"
 	"github.com/gin-gonic/gin"
+	"github.com/ppxiaodandan/douyin-back-end/service/auth_service"
 	"net/http"
 	"sync/atomic"
 )

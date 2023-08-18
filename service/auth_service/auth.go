@@ -1,7 +1,7 @@
 package auth_service
 
 //import "../simple-demo-main/model"
-import "github.com/RaymondCode/simple-demo/model"
+import "github.com/ppxiaodandan/douyin-back-end/model"
 
 type Auth struct {
 	Username string
